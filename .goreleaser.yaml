@@ -40,6 +40,6 @@ archives:
 
 release:
   github:
-    owner: UlricQin
+    owner: gu9gu9gu
     name: dns-lookup-latency
   name_template: "v{{ .Version }}"
